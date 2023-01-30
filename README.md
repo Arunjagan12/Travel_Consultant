@@ -7,5 +7,7 @@
 
 <li><h2>To start the development server,</h2></li>
   </ul>
- ```npm i 
- npm start``` 
+  <h3>Development Setup</h3>
+  
+ ```npm i``` 
+ ```npm start``` 
