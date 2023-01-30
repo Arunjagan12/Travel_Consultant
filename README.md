@@ -8,5 +8,6 @@
 <li><h2>To start the development server,</h2></li>
   </ul>
   
- ```1.npm i``` 
+ ```1.npm install```
+ <br>
  ```2.npm start``` 
